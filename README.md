@@ -12,6 +12,8 @@ Getting Started
 
 -npm start or yarn start
 
+-localhost:300
+
 -press Grade button to sort the students by their Grade.
 
 Note about assignment
