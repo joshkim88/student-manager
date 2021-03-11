@@ -1,15 +1,9 @@
-# Getting Started with Create React App
+Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+step 1: download student-manager repository
+step 2: cd student-scorer
+step 3: npm install
+step 4: npm start or yarn start
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Note about assignment
+- I wasn't able to figure out a way to get lowest scoring student by grade using just React.js.  Maybe I should've used another framework like Express.  Although I was able to get the Average score for each student and show it on the student table.
