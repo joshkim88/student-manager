@@ -1,8 +1,11 @@
 Getting Started
 
 -download student-manager repository
+
 -cd student-scorer
+
 -npm install
+
 -npm start or yarn start
 
 Note about assignment
