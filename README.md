@@ -4,7 +4,7 @@ Description
 
 Getting Started
 
--download student-manager repository
+-clone the student-manager repository
 
 -cd student-scorer
 
